@@ -1,0 +1,10 @@
+﻿"side_length"= 65mm
+"D1@Sketch1"="side_length"
+"D2@Sketch1"="side_length"
+"D3@Sketch1"=(sqr(2)-1)*"side_length"/2
+"D1@Sketch2"="side_length"
+"D2@Sketch2"="side_length"
+"D1@Boss-Extrude1"="side_length"/2
+"D2@Boss-Extrude1"="side_length"/2
+"D4@Sketch1"=atn(1/sqr(2))
+"mw"= "D11@Sketch1"
